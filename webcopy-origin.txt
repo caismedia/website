@@ -1,0 +1,384 @@
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-15305921bb94c505cd92-min.en-US.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\cldr-resource-pack-15305921bb94c505cd92-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c8f95550a222ada78d8f-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\cldr-resource-pack-c8f95550a222ada78d8f-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-662d3d6c24fdd65f9938-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\common-662d3d6c24fdd65f9938-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-0d8fdca680d190a63951-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\common-vendors-0d8fdca680d190a63951-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-37c39758d487d6982032-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\common-vendors-stable-37c39758d487d6982032-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-dc40feabab74d7779262-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\extract-css-moment-js-vendor-dc40feabab74d7779262-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-5474dcad2240e79aa3db-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\extract-css-runtime-5474dcad2240e79aa3db-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-7f7b092224526b3dc419-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\extract-css-runtime-7f7b092224526b3dc419-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-af47f20befead7aad4c2-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\performance-af47f20befead7aad4c2-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/user-account-core-cec8ba90a8b44a619581-min.pt-BR.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\scripts-compressed\user-account-core-cec8ba90a8b44a619581-min.pt-BR.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/styles-compressed/user-account-core-e84acd73aa5ee3fcd4ad-min.pt-BR.css
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\universal\styles-compressed\user-account-core-e84acd73aa5ee3fcd4ad-min.pt-BR.css
+Content Type: text/css
+
+Uri: https://caismedia.squarespace.com/
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\index.htm
+Content Type: text/html
+
+Uri: https://caismedia.squarespace.com/cart
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\cart.html
+Content Type: text/html
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\index-1.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1/Neutral+Pink+Modern+Circle+Shape+LinkedIn+Profile+Picture-2.png
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1\Neutral Pink Modern Circle Shape LinkedIn Profile Picture-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1/Neutral+Pink+Modern+Circle+Shape+LinkedIn+Profile+Picture-2.png?format=1000w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1\Neutral Pink Modern Circle Shape LinkedIn Profile Picture-2-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1/Neutral+Pink+Modern+Circle+Shape+LinkedIn+Profile+Picture-2.png?format=100w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1\Neutral Pink Modern Circle Shape LinkedIn Profile Picture-2-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1/Neutral+Pink+Modern+Circle+Shape+LinkedIn+Profile+Picture-2.png?format=1500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1\Neutral Pink Modern Circle Shape LinkedIn Profile Picture-2-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1/Neutral+Pink+Modern+Circle+Shape+LinkedIn+Profile+Picture-2.png?format=2500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1\Neutral Pink Modern Circle Shape LinkedIn Profile Picture-2-7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1/Neutral+Pink+Modern+Circle+Shape+LinkedIn+Profile+Picture-2.png?format=300w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1\Neutral Pink Modern Circle Shape LinkedIn Profile Picture-2-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1/Neutral+Pink+Modern+Circle+Shape+LinkedIn+Profile+Picture-2.png?format=500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1\Neutral Pink Modern Circle Shape LinkedIn Profile Picture-2-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1/Neutral+Pink+Modern+Circle+Shape+LinkedIn+Profile+Picture-2.png?format=750w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\031d96d9-7f9e-428e-83cc-7c5b1d6ed2d1\Neutral Pink Modern Circle Shape LinkedIn Profile Picture-2-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717784925338-KIYOB4YS75OBU28VEJDX/image-asset.jpeg
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717784925338-KIYOB4YS75OBU28VEJDX\image-asset.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717784925338-KIYOB4YS75OBU28VEJDX/image-asset.jpeg?format=1000w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717784925338-KIYOB4YS75OBU28VEJDX\image-asset-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717784925338-KIYOB4YS75OBU28VEJDX/image-asset.jpeg?format=100w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717784925338-KIYOB4YS75OBU28VEJDX\image-asset-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717784925338-KIYOB4YS75OBU28VEJDX/image-asset.jpeg?format=1500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717784925338-KIYOB4YS75OBU28VEJDX\image-asset-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717784925338-KIYOB4YS75OBU28VEJDX/image-asset.jpeg?format=2500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717784925338-KIYOB4YS75OBU28VEJDX\image-asset-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717784925338-KIYOB4YS75OBU28VEJDX/image-asset.jpeg?format=300w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717784925338-KIYOB4YS75OBU28VEJDX\image-asset-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717784925338-KIYOB4YS75OBU28VEJDX/image-asset.jpeg?format=500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717784925338-KIYOB4YS75OBU28VEJDX\image-asset-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717784925338-KIYOB4YS75OBU28VEJDX/image-asset.jpeg?format=750w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717784925338-KIYOB4YS75OBU28VEJDX\image-asset-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717790588132-MX1YXYQH4M96JPV1ECFS/image-asset.jpeg
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717790588132-MX1YXYQH4M96JPV1ECFS\image-asset.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717790588132-MX1YXYQH4M96JPV1ECFS/image-asset.jpeg?format=1000w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717790588132-MX1YXYQH4M96JPV1ECFS\image-asset-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717790588132-MX1YXYQH4M96JPV1ECFS/image-asset.jpeg?format=100w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717790588132-MX1YXYQH4M96JPV1ECFS\image-asset-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717790588132-MX1YXYQH4M96JPV1ECFS/image-asset.jpeg?format=1500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717790588132-MX1YXYQH4M96JPV1ECFS\image-asset-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717790588132-MX1YXYQH4M96JPV1ECFS/image-asset.jpeg?format=2500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717790588132-MX1YXYQH4M96JPV1ECFS\image-asset-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717790588132-MX1YXYQH4M96JPV1ECFS/image-asset.jpeg?format=300w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717790588132-MX1YXYQH4M96JPV1ECFS\image-asset-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717790588132-MX1YXYQH4M96JPV1ECFS/image-asset.jpeg?format=500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717790588132-MX1YXYQH4M96JPV1ECFS\image-asset-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/1717790588132-MX1YXYQH4M96JPV1ECFS/image-asset.jpeg?format=750w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\1717790588132-MX1YXYQH4M96JPV1ECFS\image-asset-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/75961bf2-72a7-48e8-8885-65f41dc326d0/favicon.ico?format=100w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\75961bf2-72a7-48e8-8885-65f41dc326d0\favicon.ico
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/94de72e0-cc86-4e02-935c-b305852804ec/ITA-00291.jpg
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\94de72e0-cc86-4e02-935c-b305852804ec\ITA-00291.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/94de72e0-cc86-4e02-935c-b305852804ec/ITA-00291.jpg?format=1000w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\94de72e0-cc86-4e02-935c-b305852804ec\ITA-00291-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/94de72e0-cc86-4e02-935c-b305852804ec/ITA-00291.jpg?format=100w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\94de72e0-cc86-4e02-935c-b305852804ec\ITA-00291-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/94de72e0-cc86-4e02-935c-b305852804ec/ITA-00291.jpg?format=1500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\94de72e0-cc86-4e02-935c-b305852804ec\ITA-00291-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/94de72e0-cc86-4e02-935c-b305852804ec/ITA-00291.jpg?format=2500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\94de72e0-cc86-4e02-935c-b305852804ec\ITA-00291-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/94de72e0-cc86-4e02-935c-b305852804ec/ITA-00291.jpg?format=300w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\94de72e0-cc86-4e02-935c-b305852804ec\ITA-00291-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/94de72e0-cc86-4e02-935c-b305852804ec/ITA-00291.jpg?format=500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\94de72e0-cc86-4e02-935c-b305852804ec\ITA-00291-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/94de72e0-cc86-4e02-935c-b305852804ec/ITA-00291.jpg?format=750w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\94de72e0-cc86-4e02-935c-b305852804ec\ITA-00291-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/eda152fe-f5a8-4cfe-bb95-1a4a752c7528/1697722448943.jpeg
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\eda152fe-f5a8-4cfe-bb95-1a4a752c7528\1697722448943.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/eda152fe-f5a8-4cfe-bb95-1a4a752c7528/1697722448943.jpeg?format=1000w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\eda152fe-f5a8-4cfe-bb95-1a4a752c7528\1697722448943-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/eda152fe-f5a8-4cfe-bb95-1a4a752c7528/1697722448943.jpeg?format=100w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\eda152fe-f5a8-4cfe-bb95-1a4a752c7528\1697722448943-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/eda152fe-f5a8-4cfe-bb95-1a4a752c7528/1697722448943.jpeg?format=1500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\eda152fe-f5a8-4cfe-bb95-1a4a752c7528\1697722448943-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/eda152fe-f5a8-4cfe-bb95-1a4a752c7528/1697722448943.jpeg?format=2500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\eda152fe-f5a8-4cfe-bb95-1a4a752c7528\1697722448943-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/eda152fe-f5a8-4cfe-bb95-1a4a752c7528/1697722448943.jpeg?format=300w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\eda152fe-f5a8-4cfe-bb95-1a4a752c7528\1697722448943-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/eda152fe-f5a8-4cfe-bb95-1a4a752c7528/1697722448943.jpeg?format=500w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\eda152fe-f5a8-4cfe-bb95-1a4a752c7528\1697722448943-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66634ef9faa58b6ce68529f5/eda152fe-f5a8-4cfe-bb95-1a4a752c7528/1697722448943.jpeg?format=750w
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\content\v1\66634ef9faa58b6ce68529f5\eda152fe-f5a8-4cfe-bb95-1a4a752c7528\1697722448943-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://static1.squarespace.com/static/versioned-site-css/66634ef9faa58b6ce68529f5/7/5c5a519771c10ba3470d8101/66634ef9faa58b6ce68529fc/1534/site.css
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\static\versioned-site-css\66634ef9faa58b6ce68529f5\7\5c5a519771c10ba3470d8101\66634ef9faa58b6ce68529fc\1534\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.951f531f248730580867fa534b60d99a.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\static\vta\5c5a519771c10ba3470d8101\scripts\site-bundle.951f531f248730580867fa534b60d99a.js
+Content Type: application/javascript
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1718130742063-ZB0N0KP2JGXANVM5KICL/static.css
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\static\vta\5c5a519771c10ba3470d8101\versioned-assets\1718130742063-ZB0N0KP2JGXANVM5KICL\static.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/ik/Fi8qbD_F988s6kag9bwLNzB1E1HxHwR9liIbFTKRfNJfe7CgfFHN4UJLFRbh52jhWDjhFRwXZAjoZcByFQyKFcF8FR6uwR8cFsGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMdeYTOwe.js
+File Name: C:\Backup Lais\Pictures\Cais.Media\Site\Html-site\caismedia.squarespace.com\ik\Fi8qbD_F988s6kag9bwLNzB1E1HxHwR9liIbFTKRfNJfe7CgfFHN4UJLFRbh52jhWDjhFRwXZAjoZcByFQyKFcF8FR6uwR8cFsGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMf.js
+Content Type: text/javascript
+
